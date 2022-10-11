@@ -34,11 +34,12 @@ The Kairos 'factory' enables you to build custom bootable OS images for your edg
 
 ## Contributing 🙌
 
-That's fantastic news! 🥳
+That's awesome! 🥳 We welcome any contribution! 
 
 If you wish to start contributing, and want to understand more our process check out also:
-- [CONTRIBUTING.md](https://github.com/kairos-io/kairos/blob/master/CONTRIBUTING.md) 🙌
-- [GOVERNANCE](https://github.com/kairos-io/kairos/blob/master/GOVERNANCE.md) :bowtie:
+
+- [CONTRIBUTING.md](https://github.com/kairos-io/kairos/blob/master/CONTRIBUTING.md)
+- [GOVERNANCE](https://github.com/kairos-io/kairos/blob/master/GOVERNANCE.md)
 
 
 
