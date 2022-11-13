@@ -24,7 +24,7 @@ The Kairos 'factory' enables you to build custom bootable OS images for your edg
 
 ## Getting Started 📚
 
-- Take a look at our [quickstart](https://kairos.io/quickstart) 📖
+- Take a look at our [quickstart](https://kairos.io/docs/getting-started) 📖
 - Follow us on [Twitter](https://twitter.com/Kairos_OSS) to be up-to-date
 - Get involved:
   - [Github Discussions](https://github.com/kairos-io/kairos/discussions) 
